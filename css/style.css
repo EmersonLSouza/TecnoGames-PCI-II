@@ -1,0 +1,88 @@
+#parágrafo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 40px;
+    color: grey;
+}
+
+#Títulos{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 34px;
+    margin: 40px;
+    color:cadetblue;
+}
+
+#imagens{
+    margin-top: 10px;
+    margin-left: 440px;
+    border-radius: 30px;
+    width: 1000px;
+}
+
+#games{
+    margin-top: 10px;
+    margin-left: 570px;
+    border-radius: 30px;
+    width: 750px;
+}
+
+
+#menu{
+    border: 1px solid cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    color:black;
+    background-color: cadetblue;
+    top: 0;
+    padding: 10px;
+    position: sticky;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+li{
+    display: inline;
+    padding: 2px;
+}
+
+li a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 10px;
+}
+
+li a:hover{
+    background-color: hsl(181, 45%, 62%);
+    transition: 600ms;
+    
+}
+
+#Logo{
+  
+    inline-size: 40px;
+    align-items: center;
+   
+}
+
+#Botão{
+    border: 1px solid cadetblue;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    color:white;
+    background-color: cadetblue;
+    padding: 10px;
+    margin-left: 45%;
+    margin-right: 40%;
+    text-decoration: none;
+}
+
+#Sobre{
+    border-radius: 50%;
+    width: 200px; height: 200px ;
+    margin-left: 30px;
+}
+
